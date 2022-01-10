@@ -25,6 +25,10 @@ The AEM API Uber Jar comes since AEM 6.5.3 with a static logger implementation f
 If you want to alternatively use `slf4j-simple` you can add a test dependency to [org.apache.sling.testing.logging-mock][sling-logging-mock] instead.
 
 
+### GitHub Repository
+
+Sources: https://github.com/wcm-io/io.wcm.testing.logging.logback
+
 
 [logback]: http://logback.qos.ch/
 [sling-logging-mock]: https://github.com/apache/sling-org-apache-sling-testing-logging-mock
