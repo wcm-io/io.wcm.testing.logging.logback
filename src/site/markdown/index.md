@@ -2,7 +2,7 @@
 
 Default configuration for [Logback][logback] logging in unit tests.
 
-[![Maven Central](https://maven-badges.herokuapp.com/maven-central/io.wcm/io.wcm.testing.logging.logback/badge.svg)](https://maven-badges.herokuapp.com/maven-central/io.wcm/io.wcm.testing.logging.logback)
+[![Maven Central](https://img.shields.io/maven-central/v/io.wcm/io.wcm.testing.logging.logback)](https://repo1.maven.org/maven2/io/wcm/io.wcm.testing.logging.logback/)
 
 
 ### Documentation
