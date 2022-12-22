@@ -6,7 +6,7 @@
 Default configuration for Logback logging in unit tests.
 
 Documentation: https://wcm.io/testing/logging/logback/<br/>
-Issues: https://wcm-io.atlassian.net/browse/WTES<br/>
+Issues: https://github.com/wcm-io/io.wcm.testing.logging.logback/issues<br/>
 Wiki: https://wcm-io.atlassian.net/wiki/<br/>
 Continuous Integration: https://github.com/wcm-io/io.wcm.testing.logging.logback/actions<br/>
 Commercial support: https://wcm.io/commercial-support.html
