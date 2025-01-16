@@ -7,7 +7,7 @@ Default configuration for [Logback][logback] logging in unit tests.
 
 ### Documentation
 
-* [Changelog](changes-report.html)
+* [Changelog](changes.html)
 
 
 ### Overview
